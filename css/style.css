@@ -21,3 +21,10 @@ p{
 .name {
     color: red;
 }
+a {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+}
